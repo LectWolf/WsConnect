@@ -1,0 +1,5 @@
+name: WsConnect
+version: '${project.version}'
+main: cc.mcii.mc.wsconnect.WsConnect
+softdepend: [ Vault, PlayerPoints ]
+authors: [ LectWolf ]

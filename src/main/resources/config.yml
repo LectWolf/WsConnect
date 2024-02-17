@@ -1,0 +1,20 @@
+config:
+  #插件版本
+  version: ${project.version}
+  #语言 en,zh_CN(默认zh_CN)
+  language: zh_CN
+
+websocket:
+  #WebSocket主机
+  host: 0.0.0.0
+  #WebSocket端口
+  port: 8000
+  #是否开启SSL
+  useSSL: false
+  #启用SSL需设置以下内容
+  StoreType: JKS
+  KeyStore: plugin/WsConnect/keystore.jks
+  StorePassword: storepassword
+  KeyPassword: keypassword
+  #websocket通信密码
+  password: defaultpassword
