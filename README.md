@@ -13,7 +13,7 @@ Minecraft WebSocket数据传输
 <br />
 
 <h3 align="center">WsConnect</h3>
-  <p style="text-align: center">
+  <p align="center">
     关于使用WebSocket协议传输Minecraft服务器数据的插件
     <br />
     <a href="https://github.com/LectWolf/WsConnect"><strong>探索本项目的文档 »</strong></a>
